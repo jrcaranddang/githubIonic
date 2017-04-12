@@ -1,0 +1,7 @@
+{
+    "name": "githubIonic",
+    "description": "Ionic 2 github API app",
+    "repository": "https://github.com/jrcaranddang/githubIonic",
+    "logo": "",
+    "keywords": ["ionic2", "heroku", "jrcaranddang"]
+}
