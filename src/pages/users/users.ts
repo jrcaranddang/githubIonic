@@ -25,11 +25,6 @@ export class UsersPage {
       .load().subscribe(users => {
         this.users = users;this.originalUsers = users;
       })
-    
-    githubUsers
-      .searchUsers('scotch').subscribe(users => {
-        console.log(users)
-      });
   }
 
   ionViewDidLoad() {
